@@ -42,25 +42,33 @@ When I first trained, the model kept turning off during training, so I proceeded
 At first, the lambda value was set to 1, so we changed the epoch value and proceeded with the training. However, the pictures were broken, so we increased the lambda value and proceeded with the training. We kept changing the parameters to find a model with good performance.
 
 lambda-epoch
+
 1-300
+
 <img width="317" alt="image" src="https://github.com/miinimanimo/CycleGAN-for-drug-abuse-facial-image/assets/144035378/cdd088e8-4589-4218-8526-4d532a523664">
 
 25-300
+
 <img width="317" alt="image" src="https://github.com/miinimanimo/CycleGAN-for-drug-abuse-facial-image/assets/144035378/e3cedb74-8c26-4b55-acb3-ee5cdec0d2f3">
 
 120-1000
+
 <img width="317" alt="image" src="https://github.com/miinimanimo/CycleGAN-for-drug-abuse-facial-image/assets/144035378/fe7d2586-3221-41d0-8e54-e9216cbf4b73">
 
 150-1000
+
 <img width="317" alt="image" src="https://github.com/miinimanimo/CycleGAN-for-drug-abuse-facial-image/assets/144035378/61098c7f-6b1e-4568-a3c2-c6fe412f99cb">
 
 75-100
+
 <img width="317" alt="image" src="https://github.com/miinimanimo/CycleGAN-for-drug-abuse-facial-image/assets/144035378/cf33333b-d8ea-4488-ab47-6902938ec96c">
 
 85-300
+
 <img width="317" alt="image" src="https://github.com/miinimanimo/CycleGAN-for-drug-abuse-facial-image/assets/144035378/85a2fb73-eada-4031-9f7f-7f0148213bd1">
 
 90-600
+
 <img width="317" alt="image" src="https://github.com/miinimanimo/CycleGAN-for-drug-abuse-facial-image/assets/144035378/e4d9314e-ccc7-423f-a0c3-172896fb2cc2">
 
 After several attempts, I was able to construct a decent model.
