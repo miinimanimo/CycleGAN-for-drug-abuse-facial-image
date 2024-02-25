@@ -1,5 +1,6 @@
 # DrugSafe - CycleGAN(for-drug-abuse-facial-image)
 The model checkpoint files are too large, so I'm attaching them via Dropbox link. Download 90-600 and place it in the 'models' folder under 'cycle1'. If you want to use a different checkpoint, modification of the views.py code is necessary.
+
 https://www.dropbox.com/scl/fo/76sp6a43nh2no3opq4zp5/h?rlkey=w85nb30za92pcxooeiqe2c0i2&dl=0
 
 # AI
