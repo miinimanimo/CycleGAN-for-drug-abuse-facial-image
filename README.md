@@ -5,7 +5,6 @@ https://www.dropbox.com/scl/fo/76sp6a43nh2no3opq4zp5/h?rlkey=w85nb30za92pcxooeiq
 
 
 # AI
-
 At DrugSafe, this serves to process the user's facial input, predict potential facial changes from drug use, and present these predictions to communicate risks.
 
 # Technology
