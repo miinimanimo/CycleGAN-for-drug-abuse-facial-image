@@ -56,6 +56,7 @@ lambda-epoch
 After several attempts, I was able to construct a decent model.
 
 Image sources
+
 https://rehabs.com/explore/faces-of-addiction/
 
 https://wjla.com/news/crime/gallery/photos-before-and-after-faces-of-addiction-pictures-show-impact-of-drugs-on-men-women?photo=5
