@@ -18,7 +18,7 @@ Distribution - Django </br>
 The drug problem is serious worldwide. It is a project that helps to inform and prevent the seriousness and risk of drug addiction in order to solve these problems and create a healthier society. DrugSafe provides prediction of the risk of drug abuse and side effects of facial aging when drug abuse is performed, and lists drug mortality, interest, and drugs by type.
 
 
-# Development process
+# Development Process
 ## Building a CycleGAN model
 "cycle_gan.ipynb", located in the same location as the Readme, is the code for model training.
 
@@ -79,7 +79,7 @@ https://rehabs.com/explore/faces-of-addiction/
 
 https://wjla.com/news/crime/gallery/photos-before-and-after-faces-of-addiction-pictures-show-impact-of-drugs-on-men-women?photo=5
 
-## Distribution
+## Model Distribution
 After selecting the model, I deployed it using a Django server. Initially, I tried to deploy the model by saving it in .h5 format, but I encountered version compatibility issues, so the deployment did not go smoothly. As a result, I attempted to deploy the model using the saved checkpoints. I used a method of sending and receiving photos as strings using base64 encoding. I was successful in deploying using Google Compute Engine in the Google Cloud Console.
 
 
