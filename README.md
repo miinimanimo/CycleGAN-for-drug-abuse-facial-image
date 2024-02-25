@@ -61,7 +61,7 @@ lambda-epoch
 <img width="317" alt="image" src="https://github.com/miinimanimo/CycleGAN-for-drug-abuse-facial-image/assets/144035378/85a2fb73-eada-4031-9f7f-7f0148213bd1">
 
 90-600
-<img width="317" alt="image" src="https://github.com/miinimanimo/CycleGAN-for-drug-abuse-facial-image/assets/144035378/85a2fb73-eada-4031-9f7f-7f0148213bd1">
+<img width="317" alt="image" src="https://github.com/miinimanimo/CycleGAN-for-drug-abuse-facial-image/assets/144035378/e4d9314e-ccc7-423f-a0c3-172896fb2cc2">
 
 After several attempts, I was able to construct a decent model.
 
