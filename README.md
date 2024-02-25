@@ -1,12 +1,14 @@
-# CycleGAN-for-drug-abuse-facial-image
+# DrugSafe - CycleGAN(for-drug-abuse-facial-image)
+The model checkpoint file is too large, so I'm attaching it via Google drive link. Download and place it in the 'models' folder under 'cycle1'.
+https://drive.google.com/drive/folders/1KLlOFXaJevIYcDoELw2C-HWqrgWZ4Q_4?usp=drive_link
+
 # AI
 
-Uses historical data and patterns to predict potential mortality risk when taking drugs, based on drug and user characteristics.
+At DrugSafe, this serves to process the user's facial input, predict potential facial changes from drug use, and present these predictions to communicate risks.
 
 # Technology
-DB - Mysql </br>
-Cloud - Google Cloud Engine </br>
-Framework - Django
+Code - Tensorflow </br>
+Distribution - Django </br>
 
 
 
@@ -18,17 +20,7 @@ The drug problem is serious worldwide. It is a project that helps to inform and 
 
 
 ## API
-### Main page
-safeguardian/ 
+### generate image API
+main/generate/ 
 
-### List Drugs by Category Page
-safeguardian/drug/<int:ctgry_id> 
 
-### Request a detailed drug page on the Category page
-safeguardian/drug_type/<int:drug_id>
-
-### Drug search page
-safeguardian/search/
-
-### Forward to unintended drug case page
-safeguardian/unintention/<int:usage_id>
