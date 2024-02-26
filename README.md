@@ -79,6 +79,8 @@ https://rehabs.com/explore/faces-of-addiction/
 
 https://wjla.com/news/crime/gallery/photos-before-and-after-faces-of-addiction-pictures-show-impact-of-drugs-on-men-women?photo=5
 
+https://www.thesun.co.uk/fabulous/4703871/these-shocking-pictures-of-addicts-ravaged-faces-have-been-released-to-warn-others-of-the-effects-of-drug-use/
+
 ## Model Distribution
 After selecting the model, I deployed it using a Django server. Initially, I tried to deploy the model by saving it in .h5 format, but I encountered version compatibility issues, so the deployment did not go smoothly. As a result, I attempted to deploy the model using the saved checkpoints. I used a method of sending and receiving photos as strings using base64 encoding. I was successful in deploying using Google Compute Engine in the Google Cloud Console.
 
