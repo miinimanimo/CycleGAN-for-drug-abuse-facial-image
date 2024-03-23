@@ -25,7 +25,7 @@ The drug problem is serious worldwide. It is a project that helps to inform and 
 Initially, the model was designed to predict facial changes based on the duration of drug use. We intended to allow users on the website to specify the type of drug and the duration of use. However, there were issues of privacy with facial photos, and it was not easy to find data. We contacted the relevant data center for a dataset of faces according to the duration of drug use, but we were not granted access. Therefore, we labeled the data by googling, but there wasn't much. We had to build a model with only 30 sets of before and after drug use photos.
 
 I tried to build a model from scratch using PyTorch, which I am more familiar with. However, I failed to build the model because I could not properly understand the features. This is the first Style GAN model I built, and as you can see, it generated this as a human face.
---사진
+
 
 I studied a bit more and built a model based on two new papers.
 
